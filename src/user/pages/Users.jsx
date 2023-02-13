@@ -7,7 +7,8 @@ const Users = () => {
     {
       id: 'u1',
       name: 'Max Schwarz',
-      image: 'https://www.stylist.co.uk/images/app/uploads/2020/09/11153556/3-11-crop-1599835068-963x963.jpg?w=256&h=256&fit=max&auto=format%2Ccompress',
+      image: 
+        'https://images.pexels.com/photos/839011/pexels-photo-839011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
       places: 3
     }
   ]
